@@ -3,7 +3,7 @@
 // Ввод знака ->
 // Ввод числа ->
 
-package home_work_java;
+package home_work_java1;
 
 import java.util.Scanner;
 

@@ -4,7 +4,7 @@
 // Предложить хотя бы одно решение или сообщить, что его нет.
 // Ввод: 2? + ?5 = 69
 // Вывод: 24 + 45 = 69
-package home_work_java;
+package home_work_java1;
 
 import java.util.Scanner;
 

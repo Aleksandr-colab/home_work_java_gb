@@ -1,6 +1,6 @@
 // Вывести все простые числа от 1 до 1000
 
-package home_work_java;
+package home_work_java1;
 
 public class seminar1_task2 {
     static boolean isNumberSimple(int n) {
