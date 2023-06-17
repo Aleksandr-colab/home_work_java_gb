@@ -1,4 +1,4 @@
-package home_worj_java3;
+package home_work_java3;
 //  Пусть дан произвольный список целых чисел, удалить из него чётные числа.
 import java.util.ArrayList;
 import java.util.Collections;
